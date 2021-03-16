@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/src/**",
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE",
+            ],
+            "intelliSenseMode": "clang-x64",
+            "configurationProvider": "ms-vscode.cmake-tools",
+            "compilerPath": "C:\\Program Files\\LLVM\\bin\\clang++",
+            "cppStandard": "c++17",
+            "cStandard": "c17",
+            "browse": {
+                "path": [
+                    "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.28.29910\\include"
+                ]
+            }
+        }
+    ],
+    "version": 4
+}
